@@ -1,0 +1,15 @@
+{
+    "results":
+    [
+        {
+            "name": "awolowo",
+            "age": 19,
+            "state": "awka"
+        },
+        {
+            "name": "Ngozi",
+            "age": 20,
+            "state": "edo"
+        }
+    ]
+}
